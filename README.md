@@ -3,8 +3,8 @@
 <img align="right" src="https://i.giphy.com/1kJxyyCq9ZHXX0GM3a.webp" width="250">
 
 ###  Seja bem vindo(a) ao meu perfil!!
-#### Sou a Anna, Analista de Sistemas formada pela Unisanta.
-#### Meu objetivo como profissional é desenvolver sites e telas criativas e eficientes, visando a melhor experiência do usuário.
+#### Sou a Anna, analista de sistemas formada pela Unisanta.
+#### Meu objetivo como profissional é desenvolver sites e interfaces criativas e eficientes, visando à melhor experiência do usuário.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annarossete/) 
 
